@@ -55,6 +55,11 @@ I am a highly skilled Full Stack Mobile and Web Developer with over 4 years of e
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=022784BD4D87A35A3E7A1AC43FC0B4230CB24C51153CAAF0B7E8BDEFEA84C99C"> Oracle Certified Professional: Java SE 11 Developer
+</a>
+
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=022784BD4D87A35A3E7A1AC43FC0B4230CB24C51153CAAF0B7E8BDEFEA84C99C" style="text-decoration: none; color: #007bff; font-weight: bold;">Oracle Certified Professional: Java SE 11 Developer</a>
+
 
 
 <b>My GitHub Stats</b>
