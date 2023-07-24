@@ -74,11 +74,11 @@ I am a highly skilled Full Stack Mobile and Web Developer with over 4 years of e
 </div>-->
 
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=022784BD4D87A35A3E7A1AC43FC0B4230CB24C51153CAAF0B7E8BDEFEA84C99C" target="_blank">
-    <img src="images/OCPJSE11.png" alt="Oracle Certified Professional: Java SE 11 Developer" width="100" >
+    <img src="./images/OCPJSE11.png" alt="Oracle Certified Professional: Java SE 11 Developer" width="100" >
   </a>
 
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8A23237C9D571632592E15302C91232C51582ED8B2F2E54D6018A07A623476F6" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">
-    <img src="images/OCPJSE8.png" alt="Oracle Certified Professional, Java SE 8 Programmer" width="120" >
+    <img src="./images/OCPJSE8.png" alt="Oracle Certified Professional, Java SE 8 Programmer" width="120" >
   </a>
 
   <a href="https://www.credly.com/badges/3156030b-41a2-4917-89fa-160b25262333?source=linked_in_profile" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">
