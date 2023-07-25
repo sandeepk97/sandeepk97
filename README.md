@@ -90,7 +90,8 @@ I am a highly skilled Full Stack Mobile and Web Developer with over 4 years of e
   </a>
 
 
-<b>My GitHub Stats </b>
+
+## My GitHub Stats
 
 <a href="http://www.github.com/sandeepk97"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepk97&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
@@ -98,7 +99,13 @@ I am a highly skilled Full Stack Mobile and Web Developer with over 4 years of e
 
 <a href="https://github.com/sandeepk97" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepk97&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+## Leetcode Stats
+[![Leetcode Stats](https://leetcard.jacoblin.cool/anish_adnani?ext=heatmap&animation=true)](https://leetcode.com/anish_adnani)
+  
+## Socials
+[![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/sandeepk97)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-kunusoth/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:ksandeepiitm@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-Leetcode-orange?&logo=Leetcode&logoColor=white)](https://leetcode.com/sandeepk97/)
+[![Medium](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg&logoColor=white)](http://www.medium.com/@sandeepkunsoth)
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/sandeepk97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sandeep-kunusoth/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@sandeepkunsoth" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
