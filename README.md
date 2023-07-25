@@ -100,7 +100,7 @@ I am a highly skilled Full Stack Mobile and Web Developer with over 4 years of e
 <a href="https://github.com/sandeepk97" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepk97&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ## Leetcode Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/anish_adnani?ext=heatmap&animation=true)](https://leetcode.com/sandeepk97)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/sandeepk97?ext=heatmap&animation=true)](https://leetcode.com/sandeepk97)
   
 ## Socials
 [![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/sandeepk97)
