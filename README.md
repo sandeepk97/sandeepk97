@@ -14,7 +14,7 @@ I am a highly skilled Full Stack Mobile and Web Developer with over 4 years of e
 ### Skills
 
 
-<p align="left">
+<p float="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -73,33 +73,42 @@ I am a highly skilled Full Stack Mobile and Web Developer with over 4 years of e
   </a>
 </div>-->
 
+
+<p float="left">
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=022784BD4D87A35A3E7A1AC43FC0B4230CB24C51153CAAF0B7E8BDEFEA84C99C" target="_blank">
-    <img src="images/OCPJSE11.png" alt="Oracle Certified Professional: Java SE 11 Developer" width="100" >
-  </a>
-
+<img src="images/OCPJSE11.png" alt="Oracle Certified Professional: Java SE 11 Developer" width="100" >
+</a>
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8A23237C9D571632592E15302C91232C51582ED8B2F2E54D6018A07A623476F6" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">
-    <img src="images/OCPJSE8.png" alt="Oracle Certified Professional, Java SE 8 Programmer" width="120" > 
-  </a>
-
+<img src="images/OCPJSE8.png" alt="Oracle Certified Professional, Java SE 8 Programmer" width="120" > 
+</a>
   <a href="https://www.credly.com/badges/3156030b-41a2-4917-89fa-160b25262333?source=linked_in_profile" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">
-    <img src="images/JavaEE7.png" alt="Oracle Certified Professional, Java EE 7 Application Developer" width="100" >
-  </a>
-
-  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8198AFD548611E3005F80437554CD18E923290C7E24C280C269A38612CD21023" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">
-    <img src="images/OCI-AP.png" alt="Oracle Cloud Infrastructure 2022 Certified Architect Professional" width="200">
-  </a>
+<img src="images/JavaEE7.png" alt="Oracle Certified Professional, Java EE 7 Application Developer" width="100" >
+</a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8198AFD548611E3005F80437554CD18E923290C7E24C280C269A38612CD21023" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">
+<img src="images/OCI-AP.png" alt="Oracle Cloud Infrastructure 2022 Certified Architect Professional" width="200">
+</a>
+</p>
 
 
 
 ## My GitHub Stats
 
-<a href="http://www.github.com/sandeepk97"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepk97&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p float="left">
+<a href="http://www.github.com/sandeepk97">
+  <img href="http://www.github.com/sandeepk97" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepk97&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="55%" />
+  </a>
+
+<a href="https://github.com/sandeepk97">
+<img href="https://github.com/sandeepk97" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepk97&layout=compact&hide=html,css,jupyter%20notebook&langs_count=20&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Most Used Languages"  width="30%" />
+</a>
+</p>
+
+
+
 
 
 [![Sandeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sandeepk97)](https://github.com/sandeepk97/github-readme-activity-graph)
 
-
-<a href="https://github.com/sandeepk97" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepk97&layout=compact&hide=html,css,jupyter%20notebook&langs_count=20&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Most Used Languages" /></a>
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepk97&layout=pie)](https://github.com/sandeepk97/github-readme-stats)
