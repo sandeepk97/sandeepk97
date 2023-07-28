@@ -99,7 +99,7 @@ I am a highly skilled Full Stack Mobile and Web Developer with over 4 years of e
 [![Sandeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sandeepk97)](https://github.com/sandeepk97/github-readme-activity-graph)
 
 
-<a href="https://github.com/sandeepk97" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepk97&layout=pie&langs_count=20&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Most Used Languages" /></a>
+<a href="https://github.com/sandeepk97" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepk97&layout=compact&langs_count=20&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Most Used Languages" /></a>
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepk97&layout=pie)](https://github.com/sandeepk97/github-readme-stats)
