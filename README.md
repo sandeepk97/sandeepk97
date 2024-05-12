@@ -122,5 +122,4 @@ I am a highly skilled Full Stack Mobile and Web Developer with over 4 years of e
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-kunusoth/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:ksandeepiitm@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-Leetcode-orange?&logo=Leetcode&logoColor=white)](https://leetcode.com/sandeepk97/)
-[![Medium](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg&logoColor=white)](http://www.medium.com/@sandeepkunsoth)
 
